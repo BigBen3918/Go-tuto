@@ -2,83 +2,83 @@
 
 This repository is a hands-on introduction to Go using annotated example programs.
 
-Hello World
-Values
-Variables
-Constants
-For
-If/Else
-Switch
-Arrays
-Slices
-Maps
-Range
-Functions
-Multiple Return Values
-Variadic Functions
-Closures
-Recursion
-Pointers
-Strings and Runes
-Structs
-Methods
-Interfaces
-Struct Embedding
-Generics
-Errors
-Goroutines
-Channels
-Channel Buffering
-Channel Synchronization
-Channel Directions
-Select
-Timeouts
-Non-Blocking Channel Operations
-Closing Channels
-Range over Channels
-Timers
-Tickers
-Worker Pools
-WaitGroups
-Rate Limiting
-Atomic Counters
-Mutexes
-Stateful Goroutines
-Sorting
-Sorting by Functions
-Panic
-Defer
-Recover
-String Functions
-String Formatting
-Text Templates
-Regular Expressions
-JSON
-XML
-Time
-Epoch
-Time Formatting / Parsing
-Random Numbers
-Number Parsing
-URL Parsing
-SHA256 Hashes
-Base64 Encoding
-Reading Files
-Writing Files
-Line Filters
-File Paths
-Directories
-Temporary Files and Directories
-Embed Directive
-Testing and Benchmarking
-Command-Line Arguments
-Command-Line Flags
-Command-Line Subcommands
-Environment Variables
-HTTP Client
-HTTP Server
-Context
-Spawning Processes
-Exec'ing Processes
-Signals
-Exit
+1. [Hello World](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+2. [Values](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+3. [Variables](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+4. [Constants](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+5. [For](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+6. [If/Else](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+7. [Switch](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+8. [Arrays](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+9. [Slices](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+10. [Maps](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+11. [Range](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+12. [Functions](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+13. [Multiple Return Values](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+14. [Variadic Functions](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+15. [Closures](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+16. [Recursion](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+17. [Pointers](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+18. [Strings and Runes](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+19. [Structs](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+20. [Methods](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+21. [Interfaces](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+22. [Struct Embedding](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+23. [Generics](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+24. [Errors](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+25. [Goroutines](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+26. [Channels](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+27. [Channel Buffering](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+28. [Channel Synchronization](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+29. [Channel Directions](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+30. [Select](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+31. [Timeouts](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+32. [Non-Blocking Channel Operations](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+33. [Closing Channels](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+34. [Range over Channels](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+35. [Timers](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+36. [Tickers](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+37. [Worker Pools](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+38. [WaitGroups](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+39. [Rate Limiting](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+40. [Atomic Counters](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+41. [Mutexes](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+42. [Stateful Goroutines](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+43. [Sorting](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+44. [Sorting by Functions](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+45. [Panic](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+46. [Defer](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+47. [Recover](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+48. [String Functions](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+49. [String Formatting](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+50. [Text Templates](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+51. [Regular Expressions](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+52. [JSON](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+53. [XML](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+54. [Time](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+55. [Epoch](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+56. [Time Formatting / Parsing](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+57. [Random Numbers](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+58. [Number Parsing](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+59. [URL Parsing](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+60. [SHA256 Hashes](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+61. [Base64 Encoding](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+62. [Reading Files](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+63. [Writing Files](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+64. [Line Filters](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+65. [File Paths](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+66. [Directories](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+67. [Temporary Files and Directories](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+68. [Embed Directive](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+69. [Testing and Benchmarking](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+70. [Command-Line Arguments](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+71. [Command-Line Flags](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+72. [Command-Line Subcommands](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+73. [Environment Variables](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+74. [HTTP Client](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+75. [HTTP Server](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+76. [Context](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+77. [Spawning Processes](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+78. [Exec'ing Processes](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+79. [Signals](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
+80. [Exit](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
