@@ -10,8 +10,11 @@ The Go programming language was born because of the complexity of managing the i
 - Flexible - Go is simple, easy to read, and learn.
 
 - Concurrency - Go allows multiple processes to run simultaneously.
+
 - Fast Output - Go comes with a very quick compilation time.
+
 - Library - Go comes with a vast standard library.
+
 - Garbage collection - Go has this key feature. It gives control to memory allocation and has significantly reduced latency in newer versions. 
 
 ## Why Learn Golang?
