@@ -1,4 +1,4 @@
-module crud
+module crud-using-mysql
 
 go 1.20
 
