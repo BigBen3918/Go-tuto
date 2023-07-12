@@ -43,7 +43,7 @@ func generateToken(username string, password string) (map[string]interface{}, er
 		return nil, errors.New("Invalid username or password.\r\n")
 	}
 
-	queryString = "INSERT INTO authtication_tokens(user_id, auth_token, generated_at, expired_at) VALUES(?, ?, ?, ?)"
+	queryString = "INSERT INTO token(user_id, auth_token, generated_at, expired_at) VALUES(?, ?, ?, ?)"
 
 	stmt, err = db.Prepare(queryString)
 

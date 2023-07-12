@@ -1,21 +1,12 @@
 package main
 
 import (
-	"database/sql"
-
 	_ "github.com/go-sql-driver/mysql"
 	"golang.org/x/crypto/bcrypt"
 )
 
 func registerUser(username string, password string) (string, error) {
-	dbDriver := "mysql"
-	dbUser := "root"
-	dbPass := ""
-	dbName := "goblog"
-	db, err := sql.Open(dbDriver, dbUser+":"+dbPass+"@/"+dbName)
-	if err != nil {
-		panic(err.Error())
-	}
+	db := dbConn()
 
 	queryString := "INSERT INTO user(username, password) VALUES (?, ?)"
 

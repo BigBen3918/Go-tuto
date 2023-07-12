@@ -39,7 +39,7 @@ func authentications(w http.ResponseWriter, req *http.Request) {
 		tokenDetails, err := generateToken(username, password)
 
 		if err != nil {
-			fmt.Fprintf(w, err.Error())
+			fmt.Fprint(w, err.Error())
 		} else {
 			enc := json.NewEncoder(w)
 			enc.SetIndent("", "  ")
