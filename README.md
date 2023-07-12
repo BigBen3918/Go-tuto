@@ -8,4 +8,5 @@
 
 1. [Introduction of Golang](https://github.com/Shinobi-Developer/Golang/tree/main/1-intro)
 2. [Hands-on Go](https://github.com/Shinobi-Developer/Golang/tree/main/2-handson-go)
-3. [CRUD using MySQL from Scrach](https://github.com/Shinobi-Developer/Golang/tree/main/1-intro)
+3. [CRUD using MySQL from Scrach](https://github.com/Shinobi-Developer/Golang/tree/main/3-crud-with-mysql)
+3. [Token-based Authentication with Golang and MySQL](https://github.com/Shinobi-Developer/Golang/tree/main/4-tokenbased-authentication)
