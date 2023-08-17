@@ -2,7 +2,7 @@
 
 ### Go is an open source programming language that makes it simple to build secure, scalable systems
 
-<img src="https://go.dev/images/gophers/motorcycle.svg" height="150px" />
+<img src="https://go.dev/images/gophers/ladder.svg" height="150px" />
 
 ### This repository can greatly assist in attaining a high level of proficiency in the Go programming language step by step
 
