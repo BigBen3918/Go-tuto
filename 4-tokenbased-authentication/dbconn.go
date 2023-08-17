@@ -8,7 +8,7 @@ func dbConn() (db *sql.DB) {
 	dbDriver := "mysql"
 	dbUser := "root"
 	dbPass := ""
-	dbName := "goblog"
+	dbName := "goDB"
 
 	db, err := sql.Open(
 		dbDriver,
